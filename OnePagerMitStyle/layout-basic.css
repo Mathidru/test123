@@ -1,0 +1,7 @@
+#flex-box{
+    display: flex;flex-wrap: wrap;flex-basis: 22%;
+}
+h1{
+    text-align: center; font-size: 200%; background-color: aliceblue;
+}
+#box1{width: 100%;height: 200px}

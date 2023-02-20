@@ -1,0 +1,10 @@
+<!ELEMENT Snowden (Titel, Absatz1, Absatz2)>
+        <!ELEMENT Titel (#PCDATA)>
+        <!ELEMENT Absatz1 (fText, nText, kText,nText,kText,nText)
+        <!ELEMENT Absatz2 (nText)>
+        <!ELEMENT nText (#PCDATA)>
+        <!ELEMENT kText (#PCDATA)>
+        <!ELEMENT fText (#PCDATA)>
+
+
+
